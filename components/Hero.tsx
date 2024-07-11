@@ -24,7 +24,7 @@ const Hero = () => {
                     words='Transforming Concepts into Seamless Experiences'
                     />
                     <p className='text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl'>
-                        Ola, eu sou o Lucas! E este e o meu portifolio
+                        Ola, eu sou o Lucas, e este e o meu portifolio
                     </p>
                 </div>
             </div>
@@ -33,3 +33,5 @@ const Hero = () => {
 }
 
 export default Hero
+
+// https://www.youtube.com/watch?v=FTH6Dn3AyIQ
