@@ -35,3 +35,6 @@ const Hero = () => {
 export default Hero
 
 // https://www.youtube.com/watch?v=FTH6Dn3AyIQ
+// https://ui.aceternity.com/components/text-generate-effect
+// https://github.com/adrianhajdin/portfolio/blob/main/README.md#snippets
+// https://nextjs.org/docs/getting-started/installation
